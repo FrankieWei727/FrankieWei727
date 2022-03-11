@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FrankieWei727
+- 👋 Hi, I’m Xuan (Frankie) WEI.
 
 <!---
 FrankieWei727/FrankieWei727 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
